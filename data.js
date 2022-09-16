@@ -1,0 +1,46 @@
+module.exports = [
+	'Ehsan Paknejad paknejade@gmail.com',
+	'ehsanpaknejad paknejade@gmail.com',
+	'Metin1 metin3232@yahoo.com',
+	'Sangam Rajpara sangamrajpara@gmail.com',
+	'Anu Raj J nrj213@gmail.com',
+	'naman tnaman94@gmail.com',
+
+	'sarthakjdev jsarthak448@gmail.com',
+	'Aman Sharma theamansharma5@gmail.com',
+	'Niko Chika nico.chika11@gmail.com',
+	'Gabriel Amorim gabrielrra.dev@gmail.com',
+	'ralves alves.rodrigo31@outlook.com',
+
+	'Gabriel gabrielsodre91@gmail.com',
+	'Truly Mittal trulymittal@gmail.com',
+	'Muhammed Emre Durdu muhammedemredurdu@gmail.com',
+	'Brijesh Bhakta brijeshbhakta30@gmail.com',
+	'Ashok Reddy ashok.r@tringapps.com',
+
+	'Jean jeanluca.fernandes@totvs.com.br',
+	'Igor Elias igor.elias.muniz@gmail.com',
+	'DhwajKothari dhwaj.kothari@yahoo.in',
+	'Lagnesh Thakur lagneshthakur@gmail.com',
+	'Riday ♡ ridayshah2001@gmail.com',
+
+	'gautamthapa gautam.thapa22@gmail.com',
+	'gautam.thapa@i-made.in gautam.thapa@i-made.in',
+	'Victor Gorgonho josegorgonho@eng.ci.ufpb.br',
+	'Hiren Ghodasara hiren.ghodasara@outlook.com',
+	'Victor Gorgonho jose.victor@lavid.ufpb.br',
+	'Gilmar Francisco gilmarfrancisco828@gmail.com',
+
+	'jose.victor@lavid.ufpb.br testorange24apple@gmail.com',
+	'mycheffy testorange24apple@gmail.com',
+	'Taillis Mariquito taillis@Tailliss-iPro.lan',
+	'Taillis Mariquito tailliskleisson@gmail.com',
+	'smit maniya smit2932@gmail.com',
+	'Taillis Mariquito taillis@Tailliss-iMac-Pro.local',
+
+	'Vitor vitormatheussc99@gmail.com',
+	'Wenderson Ferreira wenderson.engemecatro@gmail.com',
+	'Single15! testorange24apple@gmail.com',
+	'shubhamkakkar shubham.kakkar98@gmail.com',
+	'Sihyun SihyunC@users.noreply.github.com',
+]

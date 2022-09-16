@@ -30,7 +30,7 @@ async function main() {
 	// send mail with defined transport object
 	let info = await transporter.sendMail({
 		// You can choose any name though like we have Fred Foo 👻 ~sahil
-		from: '"Fred Foo 👻" <foo@example.com>', // sender address, fyi: foo@example.com is replaced with your own email though ~sahil
+		from: '"Fred Foo 👻" <foo@example.com>', // OPTIONAL: sender address, fyi: foo@example.com is replaced with your own email though ~sahil
 		// to: 'sahilrajput03@gmail.com, baz@example.com', // list of receivers
 		to: 'sahilrajput03@gmail.com', // list of receivers
 		subject: 'Welcome to world of amazing element!', // Subject line
