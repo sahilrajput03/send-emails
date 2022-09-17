@@ -4,7 +4,7 @@
 // Code from official docs of nodemailer ~Sahil
 const nodemailer = require('nodemailer')
 const dottenv = require('dotenv')
-const data = require('./data')
+const data = require('./data2')
 console.log('got data?', data)
 
 dottenv.config()
@@ -16,7 +16,7 @@ const templateSubject = (name) => `Hello ${name}, I need some personal advice.`
 const templateBody = (name) => `
 Hello ${name}, how are you doing?
 
-I started working on this project Totel (with Jimmy)  and I want to know feedback on this project from the side. And experience with working with Jimmy if you can share it.
+I started working on this project last month on Totel Project (with Sihyun Chae / Jimmy Chae)  and I want to know feedback from the other side. And experience with working with Sihun Chae/Jimmmy Chae if you can share it.
 
 --
 Thanks & Regards
