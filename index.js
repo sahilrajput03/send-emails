@@ -20,7 +20,7 @@ async function main() {
 		// host: 'smtp.ethereal.email',
 		host: hostGmail,
 		// port: 587, // *not required for gmail ~sahil
-		// secure: false, // true for 465, false for other ports // *not required for gmail ~sahil
+		// secure: true, // true for 465, false (default=false) for other ports // *not required for gmail, *false/true both works good with gmail ~sahil
 		auth: {
 			user: testAccount.user, // generated ethereal user
 			pass: testAccount.pass, // generated ethereal password

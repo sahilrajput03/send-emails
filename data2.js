@@ -13,5 +13,6 @@ module.exports = [
 	// "Lazarus Chisom Nwankwo lazicah@gmail.com"
 	// "Sifon Isaac syfonisaac@gmail.com",
 	// "Bryan Ezeaka nwanne.ezeaka@gmail.com",
-	"Habeeb Ahmadu habeebahmadu1@gmail.com"
+	// "Habeeb Ahmadu habeebahmadu1@gmail.com"
+	"Divya Mohan divyamohan210603@gmail.com"
 ]
