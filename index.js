@@ -19,7 +19,7 @@ async function main() {
 	let transporter = nodemailer.createTransport({
 		// host: 'smtp.ethereal.email',
 		host: hostGmail,
-		// port: 587, // *not required for gmail ~sahil
+		port: 587, // Being explicit here even though default is 587 in node-mailer
 		// secure: true, // true for 465, false (default=false) for other ports // *not required for gmail, *false/true both works good with gmail ~sahil
 		auth: {
 			user: testAccount.user, // generated ethereal user
