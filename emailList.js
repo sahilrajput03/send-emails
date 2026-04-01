@@ -1,4 +1,23 @@
-module.exports = [
+const list1 = [
+	//
+	// 'sanjiv42 snjvsharma42@gmail.com',
+	// 'Krushn kathrechakrushn@gmail.com',
+	// 'Nipan Das nipandas83@gmail.com',
+	// 'Debdut Goswami debdutgoswami@gmail.com',
+	// 'NIPAN DAS nipandas83@gmail.com',
+	// 'Deepak Bhattarai bring2dip@gmail.com',
+	// 'claudionts claudionts@gmail.com',
+	// 'Gabriel Lacerda gabriellacerdadesign@gmail.com',
+	// 'GabrielLacerda gabriellacerdadesign@gmail.com',
+	// 'knightriser gabriellacerdadest@gmail.com',
+	// "Lazarus Chisom Nwankwo lazicah@gmail.com"
+	// "Sifon Isaac syfonisaac@gmail.com",
+	// "Bryan Ezeaka nwanne.ezeaka@gmail.com",
+	// "Habeeb Ahmadu habeebahmadu1@gmail.com"
+	"Divya Mohan divyamohan210603@gmail.com"
+];
+
+const list2 = [
 	'Ehsan Paknejad paknejade@gmail.com',
 	'ehsanpaknejad paknejade@gmail.com',
 	'Metin1 metin3232@yahoo.com',
@@ -43,4 +62,6 @@ module.exports = [
 	'Single15! testorange24apple@gmail.com',
 	'shubhamkakkar shubham.kakkar98@gmail.com',
 	'Sihyun SihyunC@users.noreply.github.com',
-]
+];
+
+module.exports = { list1, list2 };
